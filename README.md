@@ -91,4 +91,3 @@ A **hybrid content-based recommender** that suggests similar properties:
 
 
 
-## 🗂️ Project Structure  
